@@ -7,7 +7,7 @@
 
 ## Submission Stats
 
-- Runtime: 0 ms
+- Runtime: 3 ms
 - Memory: 22.2 MB
 
 ## Topics
