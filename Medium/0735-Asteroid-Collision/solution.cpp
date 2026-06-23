@@ -21,7 +21,6 @@ public:
             ans[i] = st.top();
             st.pop();
         }
-
         return ans;
     }
 };
